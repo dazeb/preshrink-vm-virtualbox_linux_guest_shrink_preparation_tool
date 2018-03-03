@@ -33,7 +33,7 @@ leave() {
 cat << _EOF_
 
 --------------------------
-- Preparation compllete! -
+- Preparation complete! -
 --------------------------
 
 Shutdown VM and run this command in the host to shrink:
